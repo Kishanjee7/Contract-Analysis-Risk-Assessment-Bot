@@ -1,0 +1,76 @@
+{
+  "common_issues": [
+    {
+      "id": "issue_001",
+      "category": "payment_terms",
+      "title": "Extended Payment Terms",
+      "description": "Payment terms exceeding 60 days strain SME cash flow",
+      "red_flags": ["net 90", "net 120", "payment within 90 days"],
+      "impact": "Cash flow strain, difficulty meeting operational expenses",
+      "recommendation": "Negotiate for Net 30 or Net 45 payment terms"
+    },
+    {
+      "id": "issue_002",
+      "category": "termination",
+      "title": "Unilateral Termination Rights",
+      "description": "One-sided termination clauses without adequate notice",
+      "red_flags": ["terminate without cause", "terminate immediately", "at sole discretion"],
+      "impact": "Business disruption, loss of revenue, stranded investments",
+      "recommendation": "Ensure mutual termination rights with adequate notice period"
+    },
+    {
+      "id": "issue_003",
+      "category": "liability",
+      "title": "Unlimited Liability",
+      "description": "No cap on liability exposure",
+      "red_flags": ["unlimited liability", "full indemnification", "all claims"],
+      "impact": "Potential bankruptcy, personal asset risk for proprietors",
+      "recommendation": "Negotiate liability cap equal to contract value"
+    },
+    {
+      "id": "issue_004",
+      "category": "ip_rights",
+      "title": "Full IP Transfer",
+      "description": "Complete transfer of intellectual property rights",
+      "red_flags": ["assign all rights", "work for hire", "exclusive ownership"],
+      "impact": "Loss of valuable IP, inability to reuse work",
+      "recommendation": "Retain license to use deliverables, protect background IP"
+    },
+    {
+      "id": "issue_005",
+      "category": "non_compete",
+      "title": "Broad Non-Compete",
+      "description": "Overly restrictive non-compete clauses",
+      "red_flags": ["worldwide", "perpetual", "all business activities"],
+      "impact": "Inability to work in chosen field, limited business opportunities",
+      "recommendation": "Limit geographic scope and duration (12-24 months max)"
+    },
+    {
+      "id": "issue_006",
+      "category": "auto_renewal",
+      "title": "Hidden Auto-Renewal",
+      "description": "Automatic renewal with short opt-out window",
+      "red_flags": ["automatic renewal", "auto-renew", "30 days notice to opt out"],
+      "impact": "Locked into unwanted contracts, unexpected costs",
+      "recommendation": "Set calendar reminders, negotiate longer opt-out periods"
+    },
+    {
+      "id": "issue_007",
+      "category": "jurisdiction",
+      "title": "Inconvenient Jurisdiction",
+      "description": "Dispute resolution in distant or foreign location",
+      "red_flags": ["exclusive jurisdiction", "courts of [foreign country]", "London arbitration"],
+      "impact": "High legal costs, practical difficulty in disputes",
+      "recommendation": "Negotiate for local jurisdiction or online dispute resolution"
+    },
+    {
+      "id": "issue_008",
+      "category": "confidentiality",
+      "title": "One-Sided Confidentiality",
+      "description": "Only one party bound by confidentiality",
+      "red_flags": ["receiving party shall", "vendor shall not disclose"],
+      "impact": "Unequal protection of business information",
+      "recommendation": "Ensure mutual confidentiality obligations"
+    }
+  ]
+}

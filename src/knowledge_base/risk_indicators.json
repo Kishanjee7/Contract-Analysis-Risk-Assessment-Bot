@@ -1,0 +1,73 @@
+{
+    "high_risk_indicators": [
+        {
+            "pattern": "unlimited liability",
+            "description": "No cap on potential damages",
+            "severity": "critical"
+        },
+        {
+            "pattern": "waive all rights",
+            "description": "Complete waiver of legal rights",
+            "severity": "critical"
+        },
+        {
+            "pattern": "sole and absolute discretion",
+            "description": "Unilateral decision-making power",
+            "severity": "high"
+        },
+        {
+            "pattern": "perpetual and irrevocable",
+            "description": "Permanent, unchangeable terms",
+            "severity": "high"
+        },
+        {
+            "pattern": "indemnify against all claims",
+            "description": "Broad indemnification requirement",
+            "severity": "high"
+        }
+    ],
+    "medium_risk_indicators": [
+        {
+            "pattern": "automatic renewal",
+            "description": "Contract renews without active consent",
+            "severity": "medium"
+        },
+        {
+            "pattern": "terminate without notice",
+            "description": "Termination without warning period",
+            "severity": "medium"
+        },
+        {
+            "pattern": "exclusive jurisdiction",
+            "description": "Limited venue for disputes",
+            "severity": "medium"
+        },
+        {
+            "pattern": "non-compete",
+            "description": "Restrictions on competitive activity",
+            "severity": "medium"
+        }
+    ],
+    "positive_indicators": [
+        {
+            "pattern": "mutual termination",
+            "description": "Both parties can terminate equally",
+            "sentiment": "positive"
+        },
+        {
+            "pattern": "liability cap",
+            "description": "Limited exposure to damages",
+            "sentiment": "positive"
+        },
+        {
+            "pattern": "cure period",
+            "description": "Opportunity to fix breaches before termination",
+            "sentiment": "positive"
+        },
+        {
+            "pattern": "mediation before arbitration",
+            "description": "Dispute resolution escalation",
+            "sentiment": "positive"
+        }
+    ]
+}

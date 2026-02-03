@@ -1,0 +1,109 @@
+# Sample Employment Agreement for Testing
+
+## EMPLOYMENT AGREEMENT
+
+This Employment Agreement ("Agreement") is entered into as of January 15, 2024, by and between:
+
+**ABC Technologies Pvt. Ltd.**, a company registered under the Companies Act, 2013, having its registered office at 123 Business Park, Mumbai 400001 (hereinafter referred to as the "Employer" or "Company")
+
+AND
+
+**Mr. Rahul Sharma**, residing at 456 Residential Complex, Thane 400601 (hereinafter referred to as the "Employee")
+
+WHEREAS the Employer desires to employ the Employee, and the Employee desires to accept such employment on the terms and conditions set forth herein.
+
+NOW, THEREFORE, in consideration of the mutual covenants contained herein, the parties agree as follows:
+
+### 1. POSITION AND DUTIES
+
+1.1 The Employee shall be employed as Senior Software Developer and shall perform such duties as are customarily associated with such position.
+
+1.2 The Employee shall report to the Engineering Manager and shall follow all reasonable directions given by the Employer.
+
+1.3 The Employee shall devote full time and attention to the business of the Employer and shall not engage in any other employment without prior written consent.
+
+### 2. COMPENSATION
+
+2.1 The Employee shall receive a monthly salary of Rs. 1,50,000 (Rupees One Lakh Fifty Thousand only), payable on or before the 7th day of each month.
+
+2.2 The salary shall be subject to deductions for income tax, provident fund, and other statutory deductions.
+
+2.3 The Employee shall be eligible for an annual performance bonus of up to 20% of annual salary, at the sole discretion of the Company.
+
+### 3. WORKING HOURS
+
+3.1 Normal working hours shall be from 9:00 AM to 6:00 PM, Monday through Friday.
+
+3.2 The Employee may be required to work additional hours as necessary to fulfill job responsibilities without additional compensation.
+
+### 4. PROBATION PERIOD
+
+4.1 The Employee shall be on probation for a period of 6 months from the date of joining.
+
+4.2 During probation, employment may be terminated by either party with 7 days notice or payment in lieu thereof.
+
+### 5. LEAVE ENTITLEMENT
+
+5.1 The Employee shall be entitled to 15 days of paid annual leave per year.
+
+5.2 Unused leave cannot be carried forward and shall lapse at the end of each calendar year.
+
+5.3 The Employee shall be entitled to 10 days of sick leave per year, subject to production of medical certificate for leave exceeding 2 consecutive days.
+
+### 6. CONFIDENTIALITY
+
+6.1 The Employee shall maintain strict confidentiality regarding all proprietary information, trade secrets, customer lists, business strategies, and any other confidential information of the Company.
+
+6.2 This obligation shall survive the termination of this Agreement for a period of 5 years.
+
+6.3 Any breach of this clause shall result in immediate termination and the Company may seek damages without limitation.
+
+### 7. INTELLECTUAL PROPERTY
+
+7.1 All work product, inventions, developments, and intellectual property created by the Employee during employment shall be the sole and exclusive property of the Company.
+
+7.2 The Employee hereby assigns and transfers all rights, title, and interest in such intellectual property to the Company.
+
+### 8. NON-COMPETE
+
+8.1 During employment and for a period of 2 years after termination, the Employee shall not directly or indirectly engage in any business that competes with the Company anywhere in India.
+
+8.2 The Employee shall not solicit any customers or employees of the Company for a period of 2 years after termination.
+
+### 9. TERMINATION
+
+9.1 After completion of probation, either party may terminate this Agreement by providing 90 days written notice or payment in lieu thereof.
+
+9.2 The Company may terminate employment immediately without notice for cause, including but not limited to misconduct, breach of confidentiality, or poor performance.
+
+9.3 Upon termination, the Employee shall immediately return all Company property and shall not retain any copies of confidential information.
+
+### 10. INDEMNIFICATION
+
+10.1 The Employee shall indemnify and hold the Company harmless against all claims, losses, damages, and expenses arising from any breach of this Agreement or any negligent act.
+
+### 11. DISPUTE RESOLUTION
+
+11.1 Any dispute arising out of this Agreement shall be subject to the exclusive jurisdiction of courts in Mumbai.
+
+11.2 Before initiating any legal proceedings, the parties shall attempt to resolve disputes through good faith negotiation for a period of 30 days.
+
+### 12. ENTIRE AGREEMENT
+
+12.1 This Agreement constitutes the entire agreement between the parties and supersedes all prior negotiations and understandings.
+
+12.2 No modification of this Agreement shall be valid unless in writing and signed by both parties.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+For ABC Technologies Pvt. Ltd.
+
+_______________________
+Authorized Signatory
+Name: Priya Patel
+Designation: HR Director
+
+Employee
+
+_______________________
+Rahul Sharma

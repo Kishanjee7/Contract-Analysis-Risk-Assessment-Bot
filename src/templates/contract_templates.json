@@ -1,0 +1,92 @@
+{
+    "employment_agreement": {
+        "name": "Employment Agreement",
+        "description": "Standard employment contract template for SMEs",
+        "sections": [
+            {
+                "heading": "Position and Duties",
+                "standard_text": "The Employee shall be employed as [Job Title] and shall perform such duties as are customarily associated with such position, subject to the direction of the Employer."
+            },
+            {
+                "heading": "Compensation",
+                "standard_text": "The Employee shall receive a monthly salary of Rs. [Amount], payable on or before the 7th of each month, subject to applicable tax deductions."
+            },
+            {
+                "heading": "Working Hours",
+                "standard_text": "Normal working hours shall be 9:00 AM to 6:00 PM, Monday through Friday, with a one-hour lunch break. Total weekly hours shall not exceed 48 hours."
+            },
+            {
+                "heading": "Leave Entitlement",
+                "standard_text": "The Employee shall be entitled to: (a) 21 days annual leave, (b) 10 days sick leave, (c) 10 public holidays as per company policy."
+            },
+            {
+                "heading": "Notice Period",
+                "standard_text": "Either party may terminate this agreement by providing 30 days written notice. During probation, the notice period shall be 7 days."
+            },
+            {
+                "heading": "Confidentiality",
+                "standard_text": "The Employee agrees to maintain confidentiality of all proprietary information during and after employment. This obligation survives termination for a period of 2 years."
+            }
+        ]
+    },
+    "vendor_contract": {
+        "name": "Vendor Agreement",
+        "description": "Standard vendor/supplier contract template",
+        "sections": [
+            {
+                "heading": "Supply of Goods",
+                "standard_text": "The Vendor agrees to supply goods as per the specifications in Schedule A, within the agreed timelines and quality standards."
+            },
+            {
+                "heading": "Pricing and Payment",
+                "standard_text": "Prices shall be as specified in Schedule B. Payment shall be made within 30 days of receipt of invoice and delivery of conforming goods."
+            },
+            {
+                "heading": "Delivery",
+                "standard_text": "Delivery shall be made to [Location] during business hours. Risk of loss passes to Buyer upon delivery and acceptance."
+            },
+            {
+                "heading": "Quality and Inspection",
+                "standard_text": "Buyer may inspect goods within 7 days of delivery. Non-conforming goods may be rejected with written notice."
+            },
+            {
+                "heading": "Warranty",
+                "standard_text": "Vendor warrants that goods shall be free from defects for a period of 12 months from delivery. Vendor shall repair or replace defective goods at no cost."
+            },
+            {
+                "heading": "Limitation of Liability",
+                "standard_text": "Neither party's liability shall exceed the total value of goods supplied in the 12 months preceding any claim."
+            }
+        ]
+    },
+    "service_contract": {
+        "name": "Service Agreement",
+        "description": "Standard professional services contract template",
+        "sections": [
+            {
+                "heading": "Scope of Services",
+                "standard_text": "The Service Provider shall perform services as described in Schedule A (Statement of Work) in a professional and workmanlike manner."
+            },
+            {
+                "heading": "Fees and Payment",
+                "standard_text": "Client shall pay fees as specified in Schedule B. Invoices shall be issued monthly and payable within 30 days."
+            },
+            {
+                "heading": "Term and Termination",
+                "standard_text": "This Agreement shall commence on [Date] and continue for [Duration]. Either party may terminate with 30 days written notice."
+            },
+            {
+                "heading": "Intellectual Property",
+                "standard_text": "Deliverables created specifically for Client shall be owned by Client upon full payment. Service Provider retains rights to pre-existing IP and tools."
+            },
+            {
+                "heading": "Confidentiality",
+                "standard_text": "Both parties agree to maintain confidentiality of information exchanged during the engagement. This obligation survives for 3 years after termination."
+            },
+            {
+                "heading": "Limitation of Liability",
+                "standard_text": "Service Provider's total liability shall not exceed fees paid in the 12 months preceding any claim. Neither party shall be liable for indirect or consequential damages."
+            }
+        ]
+    }
+}
