@@ -3,6 +3,7 @@
 A GenAI-powered legal assistant for SMEs to analyze contracts, identify risks, and receive actionable advice in plain language.
 
 ## Link
+https://contract-analysis-risk-assessment-bot.streamlit.app/
 
 ## Features
 
