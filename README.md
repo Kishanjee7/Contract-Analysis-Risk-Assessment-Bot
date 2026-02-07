@@ -57,6 +57,4 @@ streamlit run app.py
 └── audit_logs/            # Audit trail storage
 ```
 
-## License
 
-MIT License
